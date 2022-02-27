@@ -16,10 +16,11 @@ ______________________________________________
 4. Otvorime aplikaciu, do prehliadacu vlozime:
 http://localhost:1841 
 
+________________________________
 5. Aplikacia by mala byt funkcna
 
-
-V pripade nejakych otazok ma nevahajte kontaktovat.  NOTE
+__________________________________________________________
+V pripade nejakych otazok ma nevahajte kontaktovat. 
 
 S pozdravom, 
 
